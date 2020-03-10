@@ -1,3 +1,5 @@
 nba/google-cloud-ncaa-march-madness-2020-division-1-mens-tournament/
 wnba/google-cloud-ncaa-march-madness-2020-division-1-womens-tournament/
-
+.ipynb_checkpoints/
+nba/.ipynb_checkpoints/
+wnba/.ipynb_checkpoints/
